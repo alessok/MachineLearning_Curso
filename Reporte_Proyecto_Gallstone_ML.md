@@ -7,7 +7,7 @@ Fecha: 23 de Junio de 2025
 
 ---
 
-## 1. Introducción
+## 1. Introduccion
 
 Los cálculos biliares representan una patología común que afecta a millones de personas mundialmente, con una prevalencia que varía entre el 10-15% de la población adulta. La detección temprana de esta condición es crucial para prevenir complicaciones severas como colecistitis aguda, pancreatitis biliar o colangitis, las cuales pueden requerir intervenciones quirúrgicas de emergencia y generar costos significativos al sistema de salud.
 

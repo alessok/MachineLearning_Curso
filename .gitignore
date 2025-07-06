@@ -24,7 +24,7 @@ wheels/
 .installed.cfg
 *.egg
 
-# PyInstaller
+# PyInstaller.
 *.manifest
 *.spec
 

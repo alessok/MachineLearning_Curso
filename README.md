@@ -86,7 +86,7 @@ proyecto-machine-learning/
 3. **Masa Magra** (correlación: -0.226)
 4. **Edad** y **Diabetes Mellitus**
 
-## ⚖️ Consideraciones Éticas
+## ⚖️ Consideraciones Eticas
 
 El proyecto incluye un análisis exhaustivo de las implicaciones éticas del uso de ML en medicina:
 
